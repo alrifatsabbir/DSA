@@ -1,3 +1,5 @@
+// AUTHOR JOSH
+
 #include <stdio.h>
 
 int main() {
