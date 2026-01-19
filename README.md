@@ -5,3 +5,11 @@
 
 
 ## 📝 Language
+- CPP
+- C
+- Typescript
+- Javascript
+- Java
+- Python
+- Rust
+  
