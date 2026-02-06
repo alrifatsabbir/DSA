@@ -11,5 +11,4 @@
 - Javascript
 - Java
 - Python
-- Rust
   
